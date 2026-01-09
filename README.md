@@ -1,16 +1,17 @@
-# Interactive Portfolio Website
+# Complete Business Website
 
 ## Project Overview
-This project is an **Interactive Personal Portfolio Website** created using
-HTML, CSS, and JavaScript. The website includes form validation, interactive
-elements, and dynamic behavior to enhance user experience.
+This project is a **Complete Responsive Business Website** developed using
+HTML, CSS, and JavaScript. The website represents a business and includes
+multiple pages, responsive layout, and interactive functionality.
 
 ---
 
 ## Objectives
-- Add JavaScript functionality to the portfolio
-- Implement form validation with error messages
-- Create interactive and dynamic webpage elements
+- Build a multi-page business website
+- Implement responsive design for all devices
+- Add a contact form with validation
+- Apply modern web design principles
 
 ---
 
@@ -21,52 +22,68 @@ elements, and dynamic behavior to enhance user experience.
 
 ---
 
-## JavaScript Features Implemented
+## Website Pages
+1. **Home (index.html)** – Business overview and services
+2. **About (about.html)** – Company information and mission
+3. **Contact (contact.html)** – Contact form with validation
 
-### 1. Form Validation
-- Validates name, email, and message fields
-- Displays error messages for empty fields
-- Shows success message on valid submission
+---
 
-### 2. Interactive Elements
-- Header color changes on click
-- Skills change color on hover
-- Button hover effects
+## Features Implemented
+- Multi-page navigation
+- Responsive design using Flexbox & media queries
+- Contact form with JavaScript validation
+- Hover effects and interactive UI elements
+- Clean and modern layout
 
-### 3. Dynamic Behavior
-- Console message on page scroll
-- Real-time DOM manipulation using JavaScript
+---
+
+## Design Decisions
+- Used minimal and professional color scheme
+- Navigation kept simple for usability
+- Content divided into clear sections
+- Responsive layout for mobile, tablet, and desktop
 
 ---
 
 ## Code Structure Explanation
-- `index.html` → Page structure and form
-- `style.css` → Styling and layout
-- `script.js` → JavaScript logic and interactivity
+- `index.html` – Home page
+- `about.html` – About page
+- `contact.html` – Contact page
+- `style.css` – Styling and responsive layout
+- `script.js` – Form validation and interactivity
 
 ---
 
 ## Setup and Installation
 1. Clone or download the repository
-2. Open `index.html` in a web browser
-3. Interact with the portfolio and contact form
+2. Open the project folder
+3. Open `index.html` in a web browser
+4. Navigate through the pages using the menu
 
 ---
 
 ## Screenshots
-![Interactive Portfolio Screenshot](images/screenshot.png)
+![Business Website Screenshot](images/screenshot.png)
 
 ---
 
 ## Technical Requirements Fulfilled
-✔ Created `script.js` file  
-✔ Implemented form validation with error messages  
-✔ Added 3+ interactive features  
-✔ Used DOM manipulation and event listeners  
+✔ Created at least 3 HTML pages  
+✔ Implemented fully responsive design  
+✔ Added contact form with validation  
+✔ Used modern design and layout techniques  
 ✔ Maintained required GitHub structure  
 
 ---
 
+## Deployment
+The website can be deployed using **GitHub Pages** by enabling Pages in the
+repository settings.
+
+---
+
 ## Conclusion
-This project helped me understand JavaScript fundamentals, form validation,
-DOM manipulation, and how to add interactivity to web applications.
+This project demonstrates my ability to build a complete responsive website
+with multiple pages, interactivity, and professional structure suitable for
+real-world business use.
