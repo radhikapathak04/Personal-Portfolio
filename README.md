@@ -1,60 +1,63 @@
-# Personal-Portfolio# Personal Portfolio Website
+# Styled Personal Portfolio Website
 
 ## Project Overview
-This project is a simple **Personal Portfolio Website** created using **HTML5**.  
-The website showcases basic personal information, skills, and contact details in a clean and structured layout.
+This project is a **Styled Personal Portfolio Website** built using **HTML5 and CSS3**.  
+It presents personal information, skills, and contact details with a visually appealing design, colors, layouts, and responsive structure.
 
-The main purpose of this project is to understand **HTML structure, semantic tags, and webpage organization**.
+The project focuses on understanding **CSS styling, selectors, layouts, hover effects, and responsiveness**.
 
 ---
 
 ## Objectives
-- Learn and apply HTML5 structure
-- Use semantic HTML elements
-- Create multiple sections in a single webpage
-- Organize files properly in a GitHub repository
+- Apply CSS styling to an existing HTML portfolio
+- Learn how to use external CSS files
+- Improve visual appearance using colors and layouts
+- Make the website responsive for different screen sizes
 
 ---
 
 ## Technologies Used
 - HTML5
+- CSS3
 
 ---
 
-## HTML Concepts Learned
-During this project, I learned the following HTML concepts:
+## CSS Concepts Used
+The following CSS concepts were used in this project:
 
-- **HTML5 Structure** (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
-- **Semantic Tags** like:
-  - `<header>` for top content
-  - `<nav>` for navigation links
-  - `<main>` for main content
-  - `<section>` for different parts of the page
-  - `<footer>` for footer information
-- **Lists** (`<ul>`, `<li>`) for skills
-- **Links** (`<a>`) for navigation and contact
-- **Images** (`<img>`) for profile or visuals
+- **External CSS File** (`style.css`)
+- **CSS Selectors**
+  - Element selectors (`body`, `section`)
+  - Class selectors (`.container`, `.skills`)
+  - ID selectors (`#about`, `#contact`)
+- **Box Model**
+  - Margin, padding, border
+- **Layouts**
+  - Flexbox for alignment and spacing
+- **Hover Effects**
+  - `:hover` on buttons and navigation links
+- **Colors & Fonts**
+  - Background colors, text colors, font styling
+- **Responsive Design**
+  - Media queries for different screen sizes
+
+---
+
+## Design Decisions
+- Used a **clean and minimal color palette** for professional look
+- Sections are clearly separated for better readability
+- Navigation links placed at the top for easy access
+- Hover effects added to improve user interaction
+- Flexbox used to align content neatly
+
+---
+
+## Responsiveness Approach
+- Used **flexbox layout** to adapt content automatically
+- Added **media queries** to adjust layout for mobile screens
+- Ensured text and sections resize properly on smaller devices
 
 ---
 
 ## Website Structure Explanation
-The portfolio website is divided into the following sections:
-
-1. **Header & Navigation**
-   - Contains the website title and navigation links
-
-2. **About Section**
-   - Brief introduction about myself
-
-3. **Skills Section**
-   - List of technical skills
-
-4. **Contact Section**
-   - Contact details such as email or phone
-
-5. **Footer**
-   - Copyright information
-
----
-
-## Folder Structure
+The websit
