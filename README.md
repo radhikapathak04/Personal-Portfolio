@@ -1,42 +1,90 @@
-# Complete Business Website
+# Advanced Portfolio with CSS Grid
 
 ## Project Overview
-This is a complete responsive business website created using HTML, CSS and JavaScript.
-It includes multiple pages, modern design, and interactive functionality.
+This project is an **Advanced Personal Portfolio Website** redesigned using
+modern CSS techniques such as CSS Grid, Flexbox, animations, and CSS variables.
+The goal is to create a clean, responsive, and performance-optimized layout.
+
+---
 
 ## Objectives
-- Build a multi-page business website
-- Implement responsive design
-- Add contact form with validation
+- Implement advanced CSS layout techniques
+- Use CSS Grid for main page structure
+- Apply CSS variables for consistent theming
+- Add smooth animations and transitions
 
-## Pages
-- Home (index.html)
-- About (about.html)
-- Contact (contact.html)
-
-## Features Implemented
-- Responsive layout using Flexbox
-- Navigation between pages
-- Contact form with JavaScript validation
-- Hover effects and modern UI
+---
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript
+- CSS3 (Grid, Flexbox, Animations, Variables)
 
-## Setup Instructions
-1. Download or clone repository
-2. Open index.html in browser
+---
+
+## Advanced CSS Techniques Used
+
+### CSS Grid
+- Main layout implemented using CSS Grid
+- Responsive grid with multiple breakpoints
+
+### Flexbox
+- Navigation bar alignment
+- Centering and spacing elements
+
+### CSS Variables
+- Used for color scheme management
+- Improved maintainability and consistency
+
+### Animations & Transitions
+- Fade-in animation on header
+- Hover transitions on cards and navigation links
+
+---
+
+## Layout & Design Decisions
+- Grid-based layout for structured content
+- Card-based sections for clarity
+- Minimal color palette for better performance
+- Responsive design for mobile, tablet, and desktop
+
+---
+
+## Performance Optimizations
+- Minimal CSS files
+- Reusable CSS variables
+- Lightweight animations
+- Clean and semantic HTML
+
+---
+
+## Code Structure Explanation
+- `index.html` – Website structure
+- `css/main.css` – Styling, variables, animations
+- `css/layout.css` – Grid layout and responsiveness
+
+---
+
+## Setup and Installation
+1. Download or clone the repository
+2. Open `index.html` in a web browser
+3. Resize screen to test responsiveness
+
+---
 
 ## Screenshots
-![Website Screenshot](images/screenshot.png)
+![Advanced Portfolio Screenshot](images/screenshot.png)
+
+---
 
 ## Technical Requirements Fulfilled
-✔ 3 HTML pages  
-✔ Responsive design  
-✔ Contact form validation  
-✔ Clean code structure  
+✔ CSS Grid used for main layout  
+✔ CSS variables implemented  
+✔ Smooth animations and transitions  
+✔ Responsive design using Grid & Flexbox  
+✔ Required GitHub structure followed  
 
-## Deployment
-Website can be deployed using GitHub Pages.
+---
+
+## Conclusion
+This project demonstrates my understanding of advanced CSS concepts and modern
+web layout techniques suitable for professional web development.
