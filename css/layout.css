@@ -1,0 +1,25 @@
+/* CSS Grid Layout */
+.grid-layout {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 30px;
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+    .grid-layout {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .grid-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .nav {
+        flex-direction: column;
+        text-align: center;
+    }
+}
