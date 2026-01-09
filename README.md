@@ -1,63 +1,72 @@
-# Styled Personal Portfolio Website
+# Interactive Portfolio Website
 
 ## Project Overview
-This project is a **Styled Personal Portfolio Website** built using **HTML5 and CSS3**.  
-It presents personal information, skills, and contact details with a visually appealing design, colors, layouts, and responsive structure.
-
-The project focuses on understanding **CSS styling, selectors, layouts, hover effects, and responsiveness**.
+This project is an **Interactive Personal Portfolio Website** created using
+HTML, CSS, and JavaScript. The website includes form validation, interactive
+elements, and dynamic behavior to enhance user experience.
 
 ---
 
 ## Objectives
-- Apply CSS styling to an existing HTML portfolio
-- Learn how to use external CSS files
-- Improve visual appearance using colors and layouts
-- Make the website responsive for different screen sizes
+- Add JavaScript functionality to the portfolio
+- Implement form validation with error messages
+- Create interactive and dynamic webpage elements
 
 ---
 
 ## Technologies Used
 - HTML5
 - CSS3
+- JavaScript
 
 ---
 
-## CSS Concepts Used
-The following CSS concepts were used in this project:
+## JavaScript Features Implemented
 
-- **External CSS File** (`style.css`)
-- **CSS Selectors**
-  - Element selectors (`body`, `section`)
-  - Class selectors (`.container`, `.skills`)
-  - ID selectors (`#about`, `#contact`)
-- **Box Model**
-  - Margin, padding, border
-- **Layouts**
-  - Flexbox for alignment and spacing
-- **Hover Effects**
-  - `:hover` on buttons and navigation links
-- **Colors & Fonts**
-  - Background colors, text colors, font styling
-- **Responsive Design**
-  - Media queries for different screen sizes
+### 1. Form Validation
+- Validates name, email, and message fields
+- Displays error messages for empty fields
+- Shows success message on valid submission
+
+### 2. Interactive Elements
+- Header color changes on click
+- Skills change color on hover
+- Button hover effects
+
+### 3. Dynamic Behavior
+- Console message on page scroll
+- Real-time DOM manipulation using JavaScript
 
 ---
 
-## Design Decisions
-- Used a **clean and minimal color palette** for professional look
-- Sections are clearly separated for better readability
-- Navigation links placed at the top for easy access
-- Hover effects added to improve user interaction
-- Flexbox used to align content neatly
+## Code Structure Explanation
+- `index.html` → Page structure and form
+- `style.css` → Styling and layout
+- `script.js` → JavaScript logic and interactivity
 
 ---
 
-## Responsiveness Approach
-- Used **flexbox layout** to adapt content automatically
-- Added **media queries** to adjust layout for mobile screens
-- Ensured text and sections resize properly on smaller devices
+## Setup and Installation
+1. Clone or download the repository
+2. Open `index.html` in a web browser
+3. Interact with the portfolio and contact form
 
 ---
 
-## Website Structure Explanation
-The websit
+## Screenshots
+![Interactive Portfolio Screenshot](images/screenshot.png)
+
+---
+
+## Technical Requirements Fulfilled
+✔ Created `script.js` file  
+✔ Implemented form validation with error messages  
+✔ Added 3+ interactive features  
+✔ Used DOM manipulation and event listeners  
+✔ Maintained required GitHub structure  
+
+---
+
+## Conclusion
+This project helped me understand JavaScript fundamentals, form validation,
+DOM manipulation, and how to add interactivity to web applications.
